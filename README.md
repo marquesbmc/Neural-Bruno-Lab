@@ -41,6 +41,9 @@ Este projeto utiliza **GNU AGPL v3**:
 Para parcerias, suporte ou projetos corporativos:  
 📩 **marquesbmc@gmail.com**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20Marques%20Costa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bruno-marques-costa-27269060)
+
+
 ---
 
 ## 🤝 Contribuições
